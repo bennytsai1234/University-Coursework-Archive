@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ch4test1</string>
+    <string name="會員基本資料表">會員基本資料表</string>
+    <string name="姓名">姓名:</string>
+    <string name="電話">電話:</string>
+    <string name="Name">Name</string>
+    <string name="name">Name</string>
+</resources>

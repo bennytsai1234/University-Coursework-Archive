@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <string name="送出">送出</string>
+    <string name="商品">商品</string>
+    <string name="飲料店訂單">飲料店訂單</string>
+    <string name="todo">TODO</string>
+</resources>

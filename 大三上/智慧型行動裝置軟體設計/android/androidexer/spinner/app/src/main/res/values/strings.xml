@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string-array name="Balls">
+        <item>basketball</item>
+        <item>football</item>
+        <item>baseball</item>
+        <item>else</item>
+    </string-array>
+</resources>

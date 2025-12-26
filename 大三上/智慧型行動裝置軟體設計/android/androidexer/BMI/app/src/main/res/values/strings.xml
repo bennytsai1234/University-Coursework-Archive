@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="BMI">0</string>
+    <string name="bmi">BMI=</string>
+    <string name="體重">請輸入體重</string>
+    <string name="kg">體重(kg)</string>
+    <string name="cm">身高(cm)</string>
+    <string name="bmibutton">計算BMI</string>
+    <string name="請輸入身高">請輸入身高</string>
+</resources>

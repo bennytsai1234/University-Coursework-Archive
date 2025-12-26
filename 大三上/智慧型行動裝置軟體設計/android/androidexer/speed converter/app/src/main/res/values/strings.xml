@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">test6</string>
+    <string name="英里">英里</string>
+    <string name="請輸入速度">請輸入速度</string>
+    <string name="速度">速度</string>
+    <string name="button">Button</string>
+</resources>

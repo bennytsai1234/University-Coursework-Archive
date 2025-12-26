@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">test5</string>
+    <string name="name">Name</string>
+    <string name="請輸入你的密碼">請輸入你的密碼</string>
+    <string name="email">請輸入email</string>
+    <string name="請輸入電話">請輸入電話</string>
+    <string name="請輸入時間">請輸入時間</string>
+    <string name="請輸入日期">請輸入日期</string>
+    <string name="輸入網址">輸入網址</string>
+</resources>

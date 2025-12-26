@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "171323164813",
+    "project_id": "mlkitface-761bd",
+    "storage_bucket": "mlkitface-761bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171323164813:android:79daabb15db6852e1c3ac4",
+        "android_client_info": {
+          "package_name": "com.example.mlkitface"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG7HDJurrXBAewFVc0iFuHz3PwRgowg0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
